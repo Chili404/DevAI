@@ -1,0 +1,2 @@
+# DevAI
+Ai responses app
